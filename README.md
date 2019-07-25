@@ -2,7 +2,7 @@
 
 Myra is my Chat Bot name. I have trained it for the queries inside my college campus IIT Roorkee. But it can trained for anything.
 It uses Naive Bayes classifier to predict answers using natural language programing and it deployed on heroku.
-You can see the demo on messenger (facebook page name Myra_IITR_chat_Bot).
+You can see the demo on messenger (facebook page name Myra@IITRChatBot).
 
 train.py --> contains the code for training the model
 
